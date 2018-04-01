@@ -68,6 +68,32 @@ a.close{width:32px;height:64px;position:absolute;top:16px;right:-32px;z-index:99
 .jspDrag{width:10px;background:#e5e9ea;left:-4px;border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px}
 
 
+.my-pic {
+margin-left: 0px;
+    margin-top: -147px;
+    background-image: url(../images/my-pic.jpg);
+    /* padding: 15px 15px 0; */
+    width: 200px;
+    height: 160px;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4);
+    -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+}
+
+
+.skils-img{
+    margin-left: 0px;
+    margin-top: 0px;
+	width: 651px;
+    height: 320px;
+    background-image: url(../images/skills.PNG);
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4);
+    -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+}
+
 ul.info{width:362px;margin:5px 0 0 0}
 ul.info li{font-size:15px;margin:0 0 7px 0;line-height:15px;font-family:'YanoneKaffeesatzLight'}
 ul.info li.where{font-size:15px;width:247px;padding:0;margin:0 0 8px 0}
